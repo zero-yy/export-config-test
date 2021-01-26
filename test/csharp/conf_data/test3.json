@@ -1,0 +1,36 @@
+{
+  "records": {
+    "1": {
+      "id": 1,
+      "test_string": "aaa",
+      "test_int32": 1,
+      "test_uint32": 2,
+      "test_int64": 3,
+      "test_uint64": 4,
+      "test_float32": 5.6,
+      "test_float64": 6.7,
+      "test_double": 7.8,
+      "test_arys": [
+        9,
+        10,
+        11
+      ]
+    },
+    "2": {
+      "id": 2,
+      "test_default": "bbb",
+      "test_int32": 3,
+      "test_uint32": 4,
+      "test_int64": 5,
+      "test_uint64": 6,
+      "test_float32": 7.6,
+      "test_float64": 8.7,
+      "test_double": 9.8,
+      "test_arys": [
+        11,
+        12,
+        13
+      ]
+    }
+  }
+}
