@@ -62,3 +62,15 @@ func initLoadFunc() {
 	}
 
 }
+func GetTest(id int32) (*Test_Record) {
+	if d, ok := TestData.Records[id]; ok {return d} 
+	return nil	
+}
+func GetTest2(id string) (*Test2_Record) {
+	if d, ok := Test2Data.Records[id]; ok {return d} 
+	return nil	
+}
+func GetTest3(id int32) (*Test3_Record) {
+	if d, ok := Test3Data.Records[id]; ok {return d} 
+	return nil	
+}

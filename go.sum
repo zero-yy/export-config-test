@@ -19,6 +19,8 @@ github.com/zero-yy/export-config v0.0.0-20210126075429-5ffbd2c388cf h1:yT30VuqnA
 github.com/zero-yy/export-config v0.0.0-20210126075429-5ffbd2c388cf/go.mod h1:njhcn3dQgw+ghMOXhr9G7p4we0w6PDckDUT5XOGkeik=
 github.com/zero-yy/export-config v0.0.0-20210126091337-a9b70c98c3a8 h1:vo9o9ARx1SedRXYNEGECB0R4eRkenu6FCuN5TTiMnLw=
 github.com/zero-yy/export-config v0.0.0-20210126091337-a9b70c98c3a8/go.mod h1:njhcn3dQgw+ghMOXhr9G7p4we0w6PDckDUT5XOGkeik=
+github.com/zero-yy/export-config v0.0.0-20210126104722-ecb1527b4698 h1:aEb4nWAg161swwx+odt6eF09Ec1wwzi5qSZ/j0qDfRA=
+github.com/zero-yy/export-config v0.0.0-20210126104722-ecb1527b4698/go.mod h1:njhcn3dQgw+ghMOXhr9G7p4we0w6PDckDUT5XOGkeik=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 google.golang.org/protobuf v0.0.0-20200109180630-ec00e32a8dfd/go.mod h1:DFci5gLYBciE7Vtevhsrf46CRTquxDuWsQurQQe4oz8=
 google.golang.org/protobuf v0.0.0-20200221191635-4d8936d0db64/go.mod h1:kwYJMbMJ01Woi6D6+Kah6886xMZcty6N08ah7+eCXa0=
