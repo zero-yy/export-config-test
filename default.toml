@@ -2,9 +2,14 @@
 InputExcelPath       = "./test"
 OutputProtoPath       = "./test"
 
-OutputDataCSharpPath = "./test/csharp/conf_data"
+#OutputDataCSharpPath = "./test/csharp/conf_data"
+#OutputCodeCSharpPath = "./test/csharp/gen/conf"
+
+# config for unity
+OutputDataCSharpPath = "../ecunity/Assets/Resources/conf_data"
+OutputCodeCSharpPath = "../ecunity/Assets/Scripts/gen/conf"
+
 OutputDataGoPath     = "./test/go/conf_data"
-OutputCodeCSharpPath = "./test/csharp/gen/conf"
 OutputCodeGoPath     = "./test/go/gen/conf"
 
 ProtoPackage = "Conf"
